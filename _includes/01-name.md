@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# kdl-qa portfolio.
+
+## Edu project for continious improvements.
